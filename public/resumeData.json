@@ -1,0 +1,196 @@
+{
+  "main": {
+    "name":"Haridas Dutt",
+    "occupation":"",
+    "description":"I am a Web developer, YouTuber, and a Gamer.",
+    "image":"profilepic.jpg",
+    "bio":"Hi, I am Haridas Dutt, a 22 years old Web developer, YouTuber, and a Gamer living in Ghaziabad, U.P., India. I am a Computer Science Engineer, currently looking for Software Developer Job Opprtunity. \n Have a look at my Coding skills, YouTube Channel, or just connect with me on LinkedIn. I am always excited to have a talk with like minded people, lets discuss over coffee.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "haridasdutt11@gmail.com",
+    "phone": "+91-7982119901",
+    "address":{
+      "street":"H.No.-131, Village-Sharifabad Rajpur, Near Bharat City",
+      "city":"Ghaziabad",
+      "state":"Uttar Pradesh",
+      "zip": "201003"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1gYipIRrFk6G5LnP80KhtoKxYVrXiO384/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Dr. Akhilesh Das Gupta Institute of Technology and Management(GGSIPU)",
+        "degree":"B.Tech - Computer Science",
+        "graduated":"October 2020",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"C++",
+        "level":"95%"
+      },
+      {
+        "name":"Data Structures",
+        "level":"95%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"60%"
+      },
+      {
+        "name":"Javascript",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      }
+    ],
+    "coding":[
+      {
+        "name":"leetcode",
+        "pic":"./images/coding/leet.png",
+        "url":"https://leetcode.com/Samiatrix/",
+        "className":"leetcode"
+      },
+      {
+        "name":"github",
+        "pic":"./images/coding/GitHub.png",
+        "url":"http://github.com/samiatrix",
+        "className":"github"
+      },
+      {
+        "name":"codeforces",
+        "pic":"./images/coding/codeforce.png",
+        "url":"https://codeforces.com/profile/Samiatrix",
+        "className":"cp codeforces"
+      },
+      {
+        "name":"codechef",
+        "pic":"./images/coding/codechef.png",
+        "url":"https://www.codechef.com/users/haridasdutt",
+        "className":"cp codechef"
+      },
+      {
+        "name":"atcoder",
+        "pic":"./images/coding/atcoder.png",
+        "url":"https://atcoder.jp/users/Samiatrix",
+        "className":"cp atcoder"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}

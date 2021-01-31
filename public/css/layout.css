@@ -238,7 +238,6 @@ ul#nav li.current a { color: #F06000; }
 #resume {
    background: #fff;
    padding-top: 90px;
-   padding-bottom: 72px;
    overflow: hidden;
 }
 
@@ -281,6 +280,55 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 6px;
 }
 
+/* ------------------------------------------------------------------ */
+/* d. Resume Section
+/* ------------------------------------------------------------------ */
+
+#coding {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#coding a, #coding a:visited  { color: #11ABB0; }
+#coding a:hover, #coding a:focus { color: #313131; }
+
+#coding h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#coding h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#coding h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#coding .header-col { padding-top: 9px; }
+#coding .main-col { padding-right: 10%; }
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#coding .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#coding .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#coding .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/

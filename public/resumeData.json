@@ -5,7 +5,7 @@
     "description":"I am a Web developer, YouTuber, and a Gamer.",
     "image":"profilepic.jpg",
     "bio":"Hi, I am Haridas Dutt, a 22 years old Web developer, YouTuber, and a Gamer living in Ghaziabad, U.P., India. I am a Computer Science Engineer, currently looking for Software Developer Job Opprtunity. \n Have a look at my Coding skills, YouTube Channel, or just connect with me on LinkedIn. I am always excited to have a talk with like minded people, lets discuss over coffee.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Not working right now...",
     "email": "haridasdutt11@gmail.com",
     "phone": "+91-7982119901",
     "address":{
@@ -14,74 +14,67 @@
       "state":"Uttar Pradesh",
       "zip": "201003"
     },
-    "website": "http://www.timbakerdev.com",
     "resumedownload":"https://drive.google.com/file/d/1gYipIRrFk6G5LnP80KhtoKxYVrXiO384/view?usp=sharing",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"http://twitter.com/Samiatrix1",
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/haridas-dutt-240963145/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/samiatrix",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/samiatrix",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Have a look at some of my skills: ",
     "education":[
       {
         "school":"Dr. Akhilesh Das Gupta Institute of Technology and Management(GGSIPU)",
         "degree":"B.Tech - Computer Science",
         "graduated":"October 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "grade":"CGPA: 7.5"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Swami Vivekanand Saraswati Vidya Mandir",
+        "degree":"Senior Secondary Class(12th)",
+        "graduated":"April 2016",
+        "grade": "Percentage: 86.2%"
       }
     ],
-    "work":[
+    "project":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "name":"Burger Builder",
+        "link": "https://github.com/Samiatrix/Burger-Builder",
+        "tech":"ReactJS, HTML5, CSS, Javascript, Axios",
+        "years":"December 2020 - Present",
+        "description":"A Burger builder Application built using ReactJS and ReduxJs. The application is a single page application with proper components and is Mobile Responsive."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "name":"Virtual Chess Environment",
+        "link": "https://github.com/darkendth/virtualchess",
+        "tech":"HTML5, CSS, Javascript",
+        "years":"September 2019 - November 2019",
+        "description":"A web application used to stream live chess matches and used to analyze current move and predict next best moves."
+      },
+      {
+        "name": "Yelp Camp",
+        "link": "https://github.com/Samiatrix/YelpCamp",
+        "tech": "HTML5, CSS, Javascript, Express, NodeJS, MongoDB",
+        "years": "August 2019 - September 2019",
+        "description": "This is a full-stack web application project for a startup called Yelp Camp. It is a web application designed to add, rate and review different campgrounds, different users(read campers) can put in their comments and concerns, so that it is a well informed and well prepared camping trip for other users."
       }
     ],
     "skills":[
@@ -150,9 +143,9 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
+        "title":"Burger Builder",
+        "category":"A Burger builder Single page application built using ReactJS and ReduxJs.",
+        "image":"BurgerBuilder.png",
         "url":"https://www.canadianwanderlust.com"
       },
       {

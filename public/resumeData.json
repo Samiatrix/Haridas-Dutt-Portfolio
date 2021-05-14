@@ -4,7 +4,7 @@
     "occupation":"",
     "description":"I am a Web developer, YouTuber, and a Gamer.",
     "image":"profilepic.jpg",
-    "bio":"Hi, I am Haridas Dutt, a 22 years old Web developer, YouTuber, and a Gamer living in Ghaziabad, U.P., India. I am a Computer Science Engineer, currently looking for Software Developer Job Opprtunity. \n Have a look at my Coding skills, YouTube Channel, or just connect with me on LinkedIn. I am always excited to have a talk with like minded people, lets discuss over coffee.",
+    "bio":"Hi I am Haridas Dutt, a 22 year old Software developer, YouTuber living in Ghaziabad, India. I am a Computer Science Engineer, currently working with awesome folks at Licious. \n \n Have a look at my Coding skills, YouTube Channel, or just connect with me on LinkedIn. I am always excited to have a talk with like minded people, lets discuss over coffee.",
     "contactmessage":"Not working right now...",
     "email": "haridasdutt11@gmail.com",
     "phone": "+91-7982119901",
@@ -52,6 +52,15 @@
         "degree":"Senior Secondary Class(12th)",
         "graduated":"April 2016",
         "grade": "Percentage: 86.2%"
+      }
+    ],
+    "experience":[
+      {
+        "name":"SDE-1",
+        "company": "Licious - Born to Meat",
+        "tech":"Licious - Born to Meat",
+        "years":"March 2021 - Present",
+        "description": "Licious - Born to Meat"
       }
     ],
     "project":[
@@ -177,12 +186,8 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.”",
+        "user":"Bill Gates"
       }
     ]
   }

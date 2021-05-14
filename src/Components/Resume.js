@@ -10,6 +10,11 @@ class Resume extends Component {
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
         <p>{education.grade}</p></div>
       })
+      var experience = this.props.data.experience.map(function (exp){
+        return <div key={exp.name}><h3>{exp.name}</h3>
+          <p className="info">{exp.tech}<span>&bull;</span> <em className="date">{exp.years}</em></p>
+        </div>
+      })
       var projects = this.props.data.project.map(function (project){
         return <div key={project.company}><a href={project.link}><h3>{project.name}</h3></a>
           <p className="info">{project.tech}<span>&bull;</span> <em className="date">{project.years}</em></p>
@@ -25,6 +30,18 @@ class Resume extends Component {
     return (
       <section id="resume">
 
+      <div className="row work">
+
+      <div className="three columns header-col">
+        <h1><span>Experience</span></h1>
+      </div>
+
+      <div className="nine columns main-col">
+        {experience}
+      </div>
+
+      </div>
+
       <div className="row education">
          <div className="three columns header-col">
             <h1><span>Education</span></h1>
@@ -39,7 +56,6 @@ class Resume extends Component {
          </div>
       </div>
 
-
       <div className="row work">
 
          <div className="three columns header-col">
@@ -50,7 +66,7 @@ class Resume extends Component {
             {projects}
         </div>
 
-    </div>
+      </div>
 
 
 

@@ -3,7 +3,7 @@ class Codingprofiles extends Component {
   render() {
     if(this.props.data){
         var coding= this.props.data.coding.map(function(coding){
-          return <li key={coding.name} style={{ alignContent: 'center', alignSelf: 'center', marginLeft: '20px', marginRight: '20px' }}><a href={coding.url}><img src = {coding.pic} id = {coding.className}></img></a></li>
+          return <li key={coding.name} style={{ alignContent: 'center', alignSelf: 'center', marginLeft: '20px', marginRight: '20px' }}><a href={coding.url}><img src = {coding.pic} id = {coding.className} alt="IMG"></img></a></li>
           })
     }
 

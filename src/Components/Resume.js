@@ -12,7 +12,19 @@ class Resume extends Component {
       })
       var experience = this.props.data.experience.map(function (exp){
         return <div key={exp.name}><h3>{exp.name}</h3>
-          <p className="info">{exp.tech}<span>&bull;</span> <em className="date">{exp.years}</em></p>
+          <p className="info">{exp.tech}<span>&bull;</span> <em className="date">{exp.years}</em>
+          <ul id = "experienceList">
+            <li>Working as a Backend Developer</li>
+            <li>Designing & Building Payments Service of Licious. Migrating Current Monolithic Architecture to Microservice Architecture.</li>
+            <li>Worked on Physical Separation Code changes for Payments Service while migrating from monolithic architecture of Licious to Microservice.</li>
+            <li>Developed Refunds System for all payment modes - Paytm, Amazon Pay, Razor Pay, SimplPay and QwikCilver Wallet.</li>
+            <li>Designed Dynamic QR Code feature for all POD/COD orders in Licious.</li>
+            <li>Dynamic Routing for Netbanking/UPI payment modes via Razorpay and Juspay Gateway</li>
+            <li>CI/CD Integration with SONARQUBE in Jenkins. </li>
+            <li>HealthCheck API Integration</li>
+          </ul>
+          
+          </p>
         </div>
       })
       var projects = this.props.data.project.map(function (project){

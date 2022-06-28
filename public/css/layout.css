@@ -229,6 +229,9 @@ ul#nav li.current a { color: #F06000; }
    margin-right: 15px;
    font-size: 20px;
 }
+#about ul{
+   list-style-type:circle;
+}
 
 
 /* ------------------------------------------------------------------ */
@@ -278,6 +281,13 @@ ul#nav li.current a { color: #F06000; }
 #resume .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
+}
+#resume ul{
+   list-style-type:circle;
+}
+#resume ul li{
+   font: 16px/24px 'librebaskerville-regular', serif;
+   line-height: 2;
 }
 
 /* ------------------------------------------------------------------ */

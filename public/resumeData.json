@@ -2,14 +2,13 @@
   "main": {
     "name":"Haridas Dutt",
     "occupation":"",
-    "description":"I am a Web developer, YouTuber, and a Gamer.",
+    "description":"I am a Software developer.",
     "image":"profilepic.jpg",
     "bio":"Hi I am Haridas Dutt, a Software developer. I am a Computer Science Engineer, currently working with awesome folks at BharatPe. \n \n Have a look at my Coding skills, or just connect with me on LinkedIn. I am always excited to have a talk with like minded people, lets discuss over coffee.",
     "contactmessage":"Not working right now...",
     "email": "haridasdutt11@gmail.com",
     "phone": "+91-7982119901",
     "address":{
-      "street":"H.No.-131, Village-Sharifabad Rajpur, Near Bharat City",
       "city":"Ghaziabad",
       "state":"Uttar Pradesh",
       "zip": "201003"
@@ -59,8 +58,15 @@
         "name":"SDE-1",
         "company": "Licious - Born to Meat",
         "tech":"Licious - Born to Meat",
-        "years":"March 2021 - Present",
+        "years":"March 2021 - June 2022",
         "description": "Licious - Born to Meat"
+      },
+      {
+        "name":"SDE-1",
+        "company": "Bharatpe",
+        "tech":"Bharatpe",
+        "years":"July 2022 - Present",
+        "description": "Bharatpe"
       }
     ],
     "project":[
